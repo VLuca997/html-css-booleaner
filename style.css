@@ -4,7 +4,7 @@ header {
     background-image: url('img/pattern.png');
     background-size: 30%;
 }
-#main-logo {
+#logo {
     height: 60px;
     bottom: 100%;
 }
@@ -38,4 +38,23 @@ thead {
 .last-cell-width {
     width: 50%;
 }
+.Articolo {
+    width: 250px;
+    height: 200px;
+    background-color: rgb(255, 0, 0);
+    background-size: cover;
+    background-position: center;
+}
 
+#monitor {
+    background-image: url('img/monitor.jpg');
+}
+
+#graph {
+    background-image: url('img/graph.jpg');
+}
+
+.Nome-Articolo {
+    color: white;
+    font-size: 1.5em;
+} 
